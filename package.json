@@ -9,7 +9,7 @@
       "pg": "^7.17.1",
       "reflect-metadata": "^0.1.10",
       "tsc": "^1.20150623.0",
-      "typeorm": "0.2.22"
+      "typeorm": "0.2.25"
    },
    "devDependencies": {
       "@types/node": "^8.0.29",
